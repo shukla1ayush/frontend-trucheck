@@ -279,7 +279,7 @@ Choose review analysis here or switch to the other tabs!`, false);
       </div>
 
       {/* Main container */}
-      <div className="relative z-10 container mx-auto px-4 py-8 h-screen flex flex-col">
+      <div className="relative z-10 container mx-auto px-4 py-8 min-h-screen flex flex-col">
         {/* Header */}
         <div className="text-center mb-8 animate-fade-in">
           <div className="flex items-center justify-center mb-4">
